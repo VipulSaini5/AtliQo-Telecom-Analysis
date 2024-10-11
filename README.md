@@ -23,5 +23,8 @@ Stable Performers: Lucknow and Gurgaon (moderate growth).
 Challenges: Pune and Chennai are facing declining performance, needing urgent attention.
 
 This data highlights growth opportunities in tier-2 cities, while major metros like Delhi and Mumbai are experiencing challenges despite their large user bases. 📊
+
+It's a challenge project provided by Codebasics for more infomation https://codebasics.io/challenge/codebasics-resume-project-challenge  
+
 ![Screenshot 2024-10-10 212300](https://github.com/user-attachments/assets/661d0d4c-4a5d-4c15-aa1b-7ca8d173004a)
 ![3 5](https://github.com/user-attachments/assets/b4b1e48a-cef1-4570-9e85-1db11cbd00c9)
